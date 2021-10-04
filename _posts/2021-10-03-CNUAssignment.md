@@ -1,4 +1,4 @@
-##CNU Assignment
+##CNU Assignment##
 
 This interactive map is a visual summary created using ThingLink. It represents my highlights from freshman year before COVID 19 and being sent home, August 2019 - March 2020. Not only were these some of my first memories at Christopher Newport University, they continue to be some of the best ones I have made in college. The experiences that I chose for this project show how CNU has resembled a safe and happy place of growth for me.This ThingLink is composed of the top 10 best memories before being sent home, and the current locations of where they took place. You can see my ThingLink below. 
 <iframe width="960" height="729.2193308550186" data-original-width="1614" data-original-height="1226" src="https://www.thinglink.com/card/1499041100499779586" type="text/html" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen scrolling="no"></iframe><script async src="//cdn.thinglink.me/jse/responsive.js"></script>
