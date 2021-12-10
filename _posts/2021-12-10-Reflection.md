@@ -26,3 +26,6 @@ My second review was very in-depth and I certainly my own personal growth that w
 
 #### Grant
 The Grant Project was an assignment that built upon itself for a long time throughout the ending part of the semester. This assignment was very resourceful and a direct example of what a real Grant proposal would look like. Originally, my group thought that with this project being stretched across so many classes, that we were supposed to be trying to attempt to implement the grant into creating a DH project of our own. Luckily, we consulted to find out that the project was not as difficult as we had made it out to be and instead of creating a mockup of the grant without purpose, we were able to include it into our grant project as a mock-up to help visualize what our mission was.  As shown in the image above.
+
+## Final Input
+I truly enjoyed my semester learning about the digital humanities and the structure of this class in particular. I am very eager to continue on this topic throughout my DH minor at CNU.
