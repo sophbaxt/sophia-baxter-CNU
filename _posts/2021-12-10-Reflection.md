@@ -7,11 +7,10 @@ My situation as a student was slightly different from others in the class. I had
 
 
 ## Assignments ##
-![map](https://sophbaxt.github.io/sophia-baxter-CNU/images/tweet.png)
 
 #### Twitter
-Tweeting every week three times a week was a great way to reflect on important things covered and what we as students learned from them. It was a fun and engaging way to use social media to connect and share individual or group accomplishments, and to reply to other people after reading about what they accomplished. Above is a picture of an example of one of my favorite tweets. This tweet talked about a reading I found particularly useful, and that I still use often when writing online, _The Hemingway App_.
-
+Tweeting every week three times a week was a great way to reflect on important things covered and what we as students learned from them. It was a fun and engaging way to use social media to connect and share individual or group accomplishments, and to reply to other people after reading about what they accomplished. Below is a picture of an example of one of my favorite tweets. This tweet talked about a reading I found particularly useful, and that I still use often when writing online, _The Hemingway App_.
+![map](https://sophbaxt.github.io/sophia-baxter-CNU/images/tweet.png)
 #### About Me Blog
 The About Me Blog was one of the harder assignments at the time for me because this assignment was the introduction piece to see what was expected from the student, and the first time that students were using GitHub. For this reason alone, I believe that it would’ve been beneficial to possible do a practice blog or nongraded assignment as the first GitHub project. Other than that, I enjoyed doing the blog and picked up on ways to do things along the way. 
 
